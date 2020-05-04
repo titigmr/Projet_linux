@@ -182,6 +182,6 @@ function todo() {
 esac
 }
 
-echo -e "Ne pas oublier de mettre le fichier en source : ${bold}source ./todo.sh${normal}
+echo -e "Ne pas oublier de mettre le fichier en source : ${bold}source todo.sh${normal}
 Pour utiliser la fonction : ${bold}todo [arg]${normal}"
 
