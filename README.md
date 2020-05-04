@@ -28,13 +28,15 @@ Votre fonction devra analyser son premier argument afin de décider quelle opér
 - etc.
 
 
-## Utilisation du fichier
+## Installer le fichier
 
 Pour utiliser le fichier : 
 
 ` source todo.sh`
 
 ## Comment utiliser ?
+
+`todo help` permet d'afficher la sortie suivante : 
 
 
 **DESCRIPTION**
